@@ -1,0 +1,37 @@
+#cl {
+    height:50px;
+    width:50px;
+   background-color:rgb(250, 00, 00);
+   border-radius:50%;
+}
+#me {
+    height:50px;
+    width:50px;
+    background-color: rgb(15, 151, 35);
+    border-radius: 50%;
+}
+.A {
+    height:50px;
+    width:50px;
+    background-color: rgb(178, 208, 42);
+    border-radius: 50%;
+}
+.color {
+    height: 170px;
+    width: 65px;
+    background-color: black;
+    padding-left: 1rem;
+   padding-top: 1rem;
+
+}
+.container{
+    padding: 5%;
+}
+.con{
+    padding-left: 2.5%;
+}
+.b{
+    height: 500px;
+    width: 20px;
+    background-color: black;
+}
